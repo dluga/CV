@@ -1,6 +1,10 @@
-# Vitalii Dlugoborsky
+<h1 align="center">Vitalii Dlugoborsky</h1>
+<h3 align="center"><a href="mailto:dlugavv@gmail.com">dlugavv@gmail.com</a> / <a href="https://www.linkedin.com/in/vitalii-dlugoborsky/">linkedin</a></h3>
+<h1 align="center">Junior Software Developer</h1>
+<!-- # Vitalii Dlugoborsky
 ### dlugavv@gmail.com / [linkedin](https://www.linkedin.com/in/vitalii-dlugoborsky/)
-# Junior Software Developer
+# Junior Software Developer -->
+
 ## Skills
 &nbsp;|&nbsp;
 --- | ---
