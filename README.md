@@ -1,11 +1,11 @@
-<h1 align="center">Vitalii Dlugoborsky</h1>
-<h3 align="center"><a href="mailto:dlugavv@gmail.com">dlugavv@gmail.com</a> / <a href="https://www.linkedin.com/in/vitalii-dlugoborsky/">linkedin</a></h3>
-<h1 align="center">Junior Software Developer</h1>
+<h2 align="center">Vitalii Dlugoborsky</h2>
+<h4 align="center"><a href="mailto:dlugavv@gmail.com">dlugavv@gmail.com</a> / <a href="https://www.linkedin.com/in/vitalii-dlugoborsky/">linkedin</a></h4>
+<h2 align="center">Junior Software Developer</h2>
 <!-- # Vitalii Dlugoborsky
 ### dlugavv@gmail.com / [linkedin](https://www.linkedin.com/in/vitalii-dlugoborsky/)
 # Junior Software Developer -->
 
-## Skills
+### Skills
 &nbsp;|&nbsp;
 --- | ---
 **Programming:** | C#
@@ -14,7 +14,7 @@
 **Database:** | MySQL, SQLite
 **Familiar with:** | JS, NodeJS, Java, Python, C++
 **Languages:** | English (Pre-intermediate), Russian (Intermediate), Ukrainian(Native)
-## Experience
+### Experience
 &nbsp;|&nbsp;
 --- | ---
 **Mar2022** | **Distributed Lab**<br/>**Intern Software Developer**<br/>Asymmetric Traveling Salesman Problem (Internship Test Task)<br/>Technologies: C#
@@ -23,7 +23,7 @@
 **Jan2020** | **Chatbots.studio**<br/>**Junior Backend NodeJS Developer**<br/>Express rest api for school data model (Internship Test Task)<br/>Technologies: NodeJS, ExpressJS, REST, MySQL
 **Jul2019-Sep2019** | **IT Project**<br/>**Junior Full-stack Developer**<br/>Web Crawler Client-Server (for E-Commerce web pages)<br/>Technologies: NodeJS, ExpressJS, ReactJS, Unit Test, JSON
 **Dec2015-Feb2016** | **Pet Project**<br/>Compiler for simple programming language<br/>Technologies: C#, .NET
-## Education
+### Education
 &nbsp;|&nbsp;
 --- | ---
 **Nov2021-Dec2021** | **Course:** “Create with Code 2 Live: Become a Jr. Programmer” on learn.unity.com<br/>**Technologies:** C#, Unity
