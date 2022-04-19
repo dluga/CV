@@ -1,11 +1,11 @@
-<h2 align="center">Vitalii Dlugoborsky</h2>
-<h4 align="center"><a href="mailto:dlugavv@gmail.com">dlugavv@gmail.com</a> / <a href="https://www.linkedin.com/in/vitalii-dlugoborsky/">linkedin</a></h4>
-<h2 align="center">Junior Software Developer</h2>
+<h3 align="center">Vitalii Dlugoborsky</h3>
+<h5 align="center"><a href="mailto:dlugavv@gmail.com">dlugavv@gmail.com</a> / <a href="https://www.linkedin.com/in/vitalii-dlugoborsky/">linkedin</a></h5>
+<h3 align="center">Junior Software Developer</h3>
 <!-- # Vitalii Dlugoborsky
 ### dlugavv@gmail.com / [linkedin](https://www.linkedin.com/in/vitalii-dlugoborsky/)
 # Junior Software Developer -->
 
-<h3>Skills</h3>
+<h4>Skills</h4>
 <table>
 <tbody>
 <tr>
@@ -34,7 +34,7 @@
 </tr>
 </tbody>
 </table>
-<h3>Experience</h3>
+<h4>Experience</h4>
 <table>
 <tbody>
 <tr>
@@ -63,7 +63,7 @@
 </tr>
 </tbody>
 </table>
-<h3>Education</h3>
+<h4>Education</h4>
 <table>
 <tbody>
 <tr>
