@@ -1,6 +1,6 @@
 <h3 align="center">Vitalii Dlugoborsky</h3>
 <h5 align="center"><a href="mailto:dlugavv@gmail.com">dlugavv@gmail.com</a> / <a href="https://www.linkedin.com/in/vitalii-dlugoborsky/">linkedin</a></h5>
-<h3 align="center">Junior Software Developer</h3>
+<h3 align="center">Junior Unity/C# Developer</h3>
 <!-- # Vitalii Dlugoborsky
 ### dlugavv@gmail.com / [linkedin](https://www.linkedin.com/in/vitalii-dlugoborsky/)
 # Junior Software Developer -->
@@ -38,24 +38,8 @@
 <table>
 <tbody>
 <tr>
-<td><strong>Mar2022</strong></td>
-<td><strong>Distributed Lab</strong><br/><strong>Intern Software Developer</strong><br/>Asymmetric Traveling Salesman Problem (Internship Test Task)<br/>Technologies: C#</td>
-</tr>
-<tr>
-<td><strong>Nov2021-Dec2021</strong></td>
-<td><strong>Saint.wtf</strong><br/><strong>Junior Unity C# Developer</strong><br/>Draw Heels game clone (Test Task)<br/>Technologies: C#, Unity</td>
-</tr>
-<tr>
-<td><strong>May2021-Jun2021</strong></td>
-<td><strong>Junior Unity C# Developer</strong><br/>Create with Code: Game Jam on learn.unity.com<br/>Technologies: C#, Unity</td>
-</tr>
-<tr>
-<td><strong>Jan2020</strong></td>
-<td><strong>Chatbots.studio</strong><br/><strong>Junior Backend NodeJS Developer</strong><br/>Express rest api for school data model (Internship Test Task)<br/>Technologies: NodeJS, ExpressJS, REST, MySQL</td>
-</tr>
-<tr>
-<td><strong>Jul2019-Sep2019</strong></td>
-<td><strong>IT Project</strong><br/><strong>Junior Full-stack Developer</strong><br/>Web Crawler Client-Server (for E-Commerce web pages)<br/>Technologies: NodeJS, ExpressJS, ReactJS, Unit Test, JSON</td>
+<td><strong>May2022-Present</strong></td>
+<td><strong>Post Physical</strong><br/><strong>Junior Unity/C# Developer</strong><br/>Technologies: C#, Unity</td>
 </tr>
 <tr>
 <td><strong>Dec2015-Feb2016</strong></td>
